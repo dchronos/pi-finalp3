@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: aaf19a580390b4e2bac8d7fc68c1cd0a
+timeCreated: 1461890321
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fadasafada_0
+    21300002: fadasafada_1
+    21300004: fadasafada_2
+    21300006: fadasafada_3
+    21300008: fadasafada_4
+    21300010: fadasafada_5
+    21300012: fadasafada_6
+    21300014: fadasafada_7
+    21300016: fadasafada_8
+    21300018: fadasafada_9
+    21300020: fadasafada_10
+    21300022: fadasafada_11
+    21300024: fadasafada_12
+    21300026: fadasafada_13
+    21300028: fadasafada_14
+    21300030: fadasafada_15
+    21300032: fadasafada_16
+    21300034: fadasafada_17
+    21300036: fadasafada_18
+    21300038: fadasafada_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fadasafada_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1861
+        width: 194
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97, y: 81.5}
+        - {x: 94, y: 87.5}
+        - {x: 88, y: 88.5}
+        - {x: -97, y: 88.5}
+        - {x: -97, y: -3.5}
+        - {x: -61, y: -88.5}
+        - {x: 34, y: -88.5}
+        - {x: 58, y: -81.5}
+        - {x: 66, y: -64.5}
+        - {x: 97, y: 13.5}
+    - name: fadasafada_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1867
+        width: 202
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75, y: 58.5}
+        - {x: 57, y: 39.5}
+        - {x: -52, y: 85.5}
+        - {x: -101, y: 85.5}
+        - {x: -101, y: -49.5}
+        - {x: -54, y: -85.5}
+        - {x: 94, y: -85.5}
+        - {x: 101, y: -65.5}
+        - {x: 101, y: 62.5}
+        - {x: 85, y: 68.5}
+    - name: fadasafada_2
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1872
+        width: 210
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74, y: 57.5}
+        - {x: -39, y: 82.5}
+        - {x: -103, y: 82.5}
+        - {x: -105, y: 81.5}
+        - {x: -105, y: 29.5}
+        - {x: -102, y: 15.5}
+        - {x: -47, y: -82.5}
+        - {x: 60, y: -82.5}
+        - {x: 75, y: -79.5}
+        - {x: 105, y: 11.5}
+        - {x: 105, y: 58.5}
+        - {x: 102, y: 64.5}
+    - name: fadasafada_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1671
+        width: 219
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94.5, y: 63}
+        - {x: -11.5, y: 79}
+        - {x: -109.5, y: 79}
+        - {x: -109.5, y: 36}
+        - {x: -104.5, y: 11}
+        - {x: -57.5, y: -79}
+        - {x: 64.5, y: -79}
+        - {x: 107.5, y: 6}
+        - {x: 109.5, y: 17}
+        - {x: 109.5, y: 59}
+    - name: fadasafada_4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1678
+        width: 227
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 113.5, y: 55}
+        - {x: 110.5, y: 55}
+        - {x: 94.5, y: 56}
+        - {x: -40.5, y: 75}
+        - {x: -113.5, y: 75}
+        - {x: -113.5, y: -2}
+        - {x: -74.5, y: -75}
+        - {x: 48.5, y: -75}
+        - {x: 71.5, y: -62}
+        - {x: 110.5, y: 5}
+        - {x: 113.5, y: 19}
+    - name: fadasafada_5
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1685
+        width: 235
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 101.5, y: 1.5}
+        - {x: 116.5, y: 14.5}
+        - {x: 117.5, y: 18.5}
+        - {x: 117.5, y: 51.5}
+        - {x: 23.5, y: 64.5}
+        - {x: -29.5, y: 71.5}
+        - {x: -117.5, y: 71.5}
+        - {x: -117.5, y: 12.5}
+        - {x: -51.5, y: -71.5}
+        - {x: 40.5, y: -71.5}
+        - {x: 67.5, y: -60.5}
+        - {x: 64.5, y: -42.5}
+        - {x: 57.5, y: -37.5}
+        - {x: 59.5, y: -15.5}
+    - name: fadasafada_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1510
+        width: 241
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -120.5, y: 67.5}
+        - {x: -120.5, y: 26.5}
+        - {x: -49.5, y: -67.5}
+        - {x: 50.5, y: -67.5}
+        - {x: 79.5, y: -60.5}
+        - {x: 120.5, y: 12.5}
+        - {x: 120.5, y: 55.5}
+        - {x: -17.5, y: 67.5}
+    - name: fadasafada_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1517
+        width: 245
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.5, y: 64}
+        - {x: -122.5, y: 64}
+        - {x: -122.5, y: -13}
+        - {x: -105.5, y: -54}
+        - {x: -68.5, y: -64}
+        - {x: 107.5, y: -64}
+        - {x: 110.5, y: -5}
+        - {x: 122.5, y: 16}
+        - {x: 122.5, y: 49}
+    - name: fadasafada_8
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1526
+        width: 248
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -124, y: 59.5}
+        - {x: -124, y: 27.5}
+        - {x: -113, y: 0.5}
+        - {x: -83, y: -59.5}
+        - {x: 97, y: -59.5}
+        - {x: 124, y: -48.5}
+        - {x: 124, y: 59.5}
+    - name: fadasafada_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1386
+        width: 248
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -124, y: 56.5}
+        - {x: -124, y: 24.5}
+        - {x: -89, y: -4.5}
+        - {x: -55, y: -46.5}
+        - {x: -44, y: -56.5}
+        - {x: 58, y: -56.5}
+        - {x: 124, y: 7.5}
+        - {x: 124, y: 41.5}
+        - {x: 66, y: 56.5}
+    - name: fadasafada_10
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1380
+        width: 248
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98, y: 59.5}
+        - {x: -124, y: 59.5}
+        - {x: -124, y: 22.5}
+        - {x: -43, y: -59.5}
+        - {x: 52, y: -59.5}
+        - {x: 124, y: -6.5}
+        - {x: 124, y: 43.5}
+        - {x: 116, y: 58.5}
+    - name: fadasafada_11
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1373
+        width: 246
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123, y: 63.5}
+        - {x: -123, y: 31.5}
+        - {x: -52, y: -63.5}
+        - {x: 55, y: -63.5}
+        - {x: 79, y: -57.5}
+        - {x: 123, y: 12.5}
+        - {x: 123, y: 51.5}
+        - {x: 4, y: 63.5}
+    - name: fadasafada_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1228
+        width: 242
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -121, y: 66.5}
+        - {x: -121, y: 35.5}
+        - {x: -111, y: 22.5}
+        - {x: -93, y: 2.5}
+        - {x: -87, y: -1.5}
+        - {x: -50, y: -66.5}
+        - {x: 84, y: -66.5}
+        - {x: 121, y: -25.5}
+        - {x: 121, y: 57.5}
+        - {x: -31, y: 66.5}
+    - name: fadasafada_13
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1222
+        width: 237
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -118.5, y: 69.5}
+        - {x: -118.5, y: 0.5}
+        - {x: -82.5, y: -69.5}
+        - {x: 80.5, y: -69.5}
+        - {x: 118.5, y: -25.5}
+        - {x: 118.5, y: 58.5}
+        - {x: -17.5, y: 69.5}
+    - name: fadasafada_14
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1214
+        width: 231
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.5, y: 73.5}
+        - {x: -115.5, y: 73.5}
+        - {x: -115.5, y: -0.5}
+        - {x: -85.5, y: -73.5}
+        - {x: 46.5, y: -73.5}
+        - {x: 87.5, y: -62.5}
+        - {x: 115.5, y: 11.5}
+        - {x: 115.5, y: 51.5}
+        - {x: 97.5, y: 56.5}
+    - name: fadasafada_15
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1042
+        width: 225
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111.5, y: 59.5}
+        - {x: 99.5, y: 57.5}
+        - {x: 77.5, y: 49.5}
+        - {x: -46.5, y: 76.5}
+        - {x: -112.5, y: 76.5}
+        - {x: -112.5, y: -23.5}
+        - {x: -91.5, y: -76.5}
+        - {x: 75.5, y: -76.5}
+        - {x: 110.5, y: 3.5}
+        - {x: 112.5, y: 9.5}
+        - {x: 112.5, y: 55.5}
+    - name: fadasafada_16
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1035
+        width: 217
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 85.5, y: 80}
+        - {x: -108.5, y: 80}
+        - {x: -108.5, y: -10}
+        - {x: -73.5, y: -80}
+        - {x: 68.5, y: -80}
+        - {x: 108.5, y: 7}
+        - {x: 108.5, y: 73}
+    - name: fadasafada_17
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1028
+        width: 209
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80.5, y: 65.5}
+        - {x: -6.5, y: 83.5}
+        - {x: -104.5, y: 83.5}
+        - {x: -104.5, y: -1.5}
+        - {x: -64.5, y: -83.5}
+        - {x: 52.5, y: -83.5}
+        - {x: 59.5, y: -72.5}
+        - {x: 104.5, y: 2.5}
+        - {x: 104.5, y: 64.5}
+    - name: fadasafada_18
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 828
+        width: 201
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 86}
+        - {x: -100.5, y: 86}
+        - {x: -100.5, y: -23}
+        - {x: -69.5, y: -86}
+        - {x: 64.5, y: -86}
+        - {x: 100.5, y: 5}
+        - {x: 100.5, y: 61}
+        - {x: 83.5, y: 74}
+    - name: fadasafada_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 822
+        width: 195
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.5, y: 89}
+        - {x: -97.5, y: 11}
+        - {x: -39.5, y: -89}
+        - {x: 35.5, y: -89}
+        - {x: 57.5, y: -85}
+        - {x: 97.5, y: -8}
+        - {x: 97.5, y: 89}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
